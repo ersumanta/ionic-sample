@@ -1,0 +1,7 @@
+{
+  "name": "prime",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
